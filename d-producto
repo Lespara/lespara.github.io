@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lesly Paraguay</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Oswald">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open Sans">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" type="text/css" href="css/style.css">
+<style>
+h1,h2,h3,h4,h5,h6 {font-family: "Oswald"}
+body {font-family: "Open Sans"}
+</style>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+       (adsbygoogle = window.adsbygoogle || []).push({
+         google_ad_client: "ca-pub-7927110595823834",
+         enable_page_level_ads: true
+       });
+    </script>
+
+</head>
+<body class="w3-light-grey">
+
+<!-- Navigation bar with social media icons -->
+<div class="w3-bar w3-write w3-hide-small">
+
+  <a href="index.html" class="w3-bar-item w3-button"> Lesly Paraguay</a>
+  <a href="https://www.behance.net/LeslyParaguay" target="_blank" class="w3-bar-item w3-button"><i class="fa fa-behance"></i></a>
+  <a href="https://www.linkedin.com/in/lesly-paraguay/" target="_blank" class="w3-bar-item w3-button"><i class="fa fa-linkedin"></i></a>
+  <a href="#" class="w3-bar-item w3-button w3-right"><i class="fa fa-search"></i></a>
+  <!-- Float links to the right. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="index.html" class="w3-bar-item w3-button">Inicio</a>
+      <a href="blog.html" class="w3-bar-item w3-button">Blog</a>
+      <a href="contact.html" class="w3-bar-item w3-button">Contactos</a>
+    </div>
+
+</div>
+  
+<!-- w3-content defines a container for fixed size centered content, 
+and is wrapped around the whole page content, except for the footer in this example -->
+<div class="w3-content" style="max-width:960px">
+  <br>
+  <a href="index.html"><button class="w3-button w3-margin-bottom" style="background:linear-gradient(135deg, #42e695 0%,#3bb2b8 100%);color: #fff;">Volver</button></a>
+
+  <!-- Header -->
+  <header class="w3-container w3-center w3-padding-35">
+    <h1 class="w3-xxxlarge"><b>Diseño de producto</b></h1>
+    <h6><span class="w3-tag"></span></h6>
+  </header>
+
+  <!-- Grid -->
+  <div class="w3-row w3-padding ">
+    
+    <!-- Blog entries -->
+    <div class="w3-col l8 s12">
+      <!-- Blog entry -->
+      <div class="w3-container w3-white w3-margin w3-padding-large">
+        <div class="w3-center">
+          <h3><span style="color: #8c68b9;">Diseño de productos de calidad</span></h3>
+          <h5><span class="w3-opacity">Nathan Manousos</span></h5>
+        </div>
+
+        <div class="w3-white w3-margin">
+        <div class="w3-container w3-xlarge w3-padding w3-center">
+          <i class="fa fa-facebook-official w3-hover-opacity"></i>
+          <i class="fa fa-instagram w3-hover-opacity"></i>
+          <i class="fa fa-snapchat w3-hover-opacity"></i>
+          <i class="fa fa-pinterest-p w3-hover-opacity"></i>
+          <i class="fa fa-twitter w3-hover-opacity"></i>
+          <i class="fa fa-linkedin w3-hover-opacity"></i>
+        </div>
+      </div>
+    
+        <div class="w3-justify">
+          <img src="images/d-producto.png" alt="Girl Hat" style="width:100%" class="w3-padding-16">
+          <p><strong>Es hora!</strong>  de dejar de producir software y comenzar a crear productos de calidad. Las ideas son una moneda de diez centavos. Las herramientas de diseño y desarrollo están avanzadas. Vamos a centrarnos en lo que realmente importa.
+          </p>
+          <p>Grandes productos comienzan y terminan con un gran diseño. El diseño debe influir en todas las decisiones de productos. Incluso las preguntas fundamentales del negocio, como qué construir o cómo venderlas, deben tratarse como decisiones de diseño. <br>El éxito de Apple le ha dado al mundo permiso para tomarse el diseño en serio. Eso no significa tratar el diseño como algo importante. Es mucho más que eso. El diseño es todo.</p>
+          <br>
+          <div class="w3-center">
+          <h3 style="color: #8c68b9;">No lo tires por encima de la valla</h3>
+          
+        </div>
+        <div class="w3-justify">
+          <!--<img src="images/man_hat.jpg" alt="Men in Hats" style="width:100%" class="w3-padding-16">-->
+          <p><strong>Asegúrate!</strong>   de que los mejores resultados provengan de tus diseños. La mayor parte de lo que produces como diseñador se descarta. El software de funcionamiento es todo lo que importa cuando termina. No espere buenos resultados al "tirarlo por la valla".</p>
+          <p class="w3-clear"></p>
+        </div>
+        <div class="w3-center">
+          <h3 style="color: #8c68b9;">Saul Bass: en ganar dinero frente al trabajo de calidad</h3>
+          
+        </div>
+        <div class="w3-justify">
+          <!--<img src="images/man_hat.jpg" alt="Men in Hats" style="width:100%" class="w3-padding-16">-->
+          <p><strong>Adopta !</strong>   la actitud de Saúl de querer hacer cosas bellas. Se necesita más tiempo y esfuerzo, pero como diseñador vale la pena. Esta debería ser la forma en que quieres vivir tu vida..</p>
+          <p class="w3-clear"></p>
+        </div>
+        <div class="w3-center">
+          <h3 style="color: #8c68b9;">Jonathan Ive de Apple en ser lo suficientemente valiente como para decir 'no'</h3>
+          
+        </div>
+        <div class="w3-justify">
+          <!--<img src="images/man_hat.jpg" alt="Men in Hats" style="width:100%" class="w3-padding-16">-->
+          <p><strong>Escucha!</strong>  tu barriga. Insista en la calidad y sea honesto consigo mismo cuando lo que ha producido no cumpla con sus estándares. Es fácil justificar el envío de algo inferior a lo esperado, especialmente cuando se ha dedicado mucho tiempo. Di no.</p>
+          <p class="w3-clear"></p>
+        </div>
+
+        <div class="w3-center">
+          <h3 style="color: #8c68b9;">Steve Jobs: No enviamos basura</h3>
+          
+        </div>
+        <div class="w3-justify">
+          <!--<img src="images/man_hat.jpg" alt="Men in Hats" style="width:100%" class="w3-padding-16">-->
+          <p><strong>Escucha!</strong>  la sinceridad en su voz, este es el secreto de Apple. No envíe basura. Decida hacer cosas que estaría orgulloso de recomendar a su familia y amigos. No lo trate como una decisión comercial, trátelo como una decisión de vida.</p>
+          <p class="w3-clear"></p>
+        </div>
+        <div class="w3-center">
+          <h3 style="color: #8c68b9;">Calidad implacable</h3>
+          
+        </div>
+        <div class="w3-justify">
+          <!--<img src="images/man_hat.jpg" alt="Men in Hats" style="width:100%" class="w3-padding-16">-->
+          <p><strong>Suda los detalles!</strong> Mantenga la calidad en primer lugar y no se resbale. Esté dispuesto a gastar lo que parece ser una cantidad de tiempo irrazonable para abordar los detalles. A tus clientes les encantará.</p>
+          <p class="w3-clear"></p>
+        </div>
+        </div>
+      </div>
+      <hr>
+
+     
+
+    <!-- END BLOG ENTRIES -->
+    </div>
+
+    <!-- About/Information menu -->
+    <div class="w3-col l4">
+
+      <div class="w3-white w3-margin">
+        <a href=""><img src="images/descargaproducto.jpg" alt="Jane" style="width:100%"> </a>
+        <div class="w3-container w3-white">
+         <ul class="w3-ul">
+            ​<li class="w3-white w3-padding">
+            <button class="w3-button w3-red w3-padding-large" onclick="document.getElementById('download').style.display='block'"><i class="fa fa-download"></i> Descargar</button>
+            </li>
+          </ul>
+         </div>
+      </div>
+
+      <!-- Modal -->
+      <div id="download" class="w3-modal w3-animate-opacity">
+        <div class="w3-modal-content" style="padding:32px">
+          <div class="w3-container w3-white">
+            <i onclick="document.getElementById('download').style.display='none'" class="fa fa-remove w3-xlarge w3-button w3-transparent w3-right w3-xlarge"></i>
+            <h2 class="w3-wide">Descargar</h2>
+            <p>Descargar el material de Diseño de producto</p>
+            
+            <p><input class="w3-input w3-border" type="text" placeholder="Enter e-mail"></p>
+            <button type="button" class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom" onclick="document.getElementById('download').style.display='none'">Descargar</button>
+          </div>
+        </div>
+      </div>
+
+      <!-- Subscribe -->
+      <div class="w3-white w3-margin">
+        <div class="w3-container w3-padding w3-black">
+          <h4>Suscribete</h4>
+        </div>
+        <div class="w3-container w3-white">
+          <p>Ingrese su dirección de correo electrónico a continuación y reciba notificaciones sobre las últimas publicaciones en el blog.</p>
+          <p><input class="w3-input w3-border" type="text" placeholder="Enter e-mail" style="width:100%"></p>
+          <p><button type="button" onclick="document.getElementById('subscribe').style.display='block'" class="w3-button w3-block w3-red">Subscribe</button></p>
+        </div>
+      </div>
+
+    <!-- END About/Intro Menu -->
+    </div>
+
+  <!-- END GRID -->
+  </div>
+
+<!-- END w3-content -->
+</div>
+
+<!-- Subscribe Modal -->
+<div id="subscribe" class="w3-modal w3-animate-opacity">
+  <div class="w3-modal-content" style="padding:32px">
+    <div class="w3-container w3-white">
+      <i onclick="document.getElementById('subscribe').style.display='none'" class="fa fa-remove w3-transparent w3-button w3-xlarge w3-right"></i>
+      <h2 class="w3-wide">SUBSCRIBE</h2>
+      <p>Join my mailing list to receive updates on the latest blog posts and other things.</p>
+      <p><input class="w3-input w3-border" type="text" placeholder="Enter e-mail"></p>
+      <button type="button" class="w3-button w3-block w3-padding-large w3-red w3-margin-bottom" onclick="document.getElementById('subscribe').style.display='none'">Subscribe</button>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- Footer -->
+<footer class="w3-container w3-padding-32 w3-light-grey w3-center">
+  <a href="index.html"><button class="w3-button w3-black w3-disabled w3-padding-large w3-margin-bottom">Anterior</button></a>
+  <a href="ux.html"><button class="w3-button w3-black w3-padding-large w3-margin-bottom" style="background:linear-gradient(135deg, #42e695 0%,#3bb2b8 100%);">Siguiente »</button></a>
+
+  <p>@copyright 2017 <a href="https://www.behance.net/LeslyParaguay" title="W3.CSS" target="_blank" class="w3-hover-text-green">Leslyparaguay.com</a></p>
+</footer>
+
+<script>
+// Toggle between hiding and showing blog replies/comments
+document.getElementById("myBtn").click();
+function myFunction(id) {
+    var x = document.getElementById(id);
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else { 
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+
+function likeFunction(x) {
+    x.style.fontWeight = "bold";
+    x.innerHTML = "✓ Liked";
+}
+</script>
+
+</body>
+</html>
